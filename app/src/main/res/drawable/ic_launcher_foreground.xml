@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:drawable="@drawable/ic_cocktail"
+    android:top="20dp"
+    android:bottom="14dp"
+    android:left="25dp"
+    android:right="19dp"
+    android:height="66dp"
+    android:width="66dp">
+
+
+</item>
+</layer-list>

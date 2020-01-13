@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cocktails DataBase</string>
+
+    <string name="title_random_cocktail">Cocktail aléatoire</string>
+    <string name="title_categories">Catégories</string>
+    <string name="title_search">Rechercher un cocktail</string>
+
+    <string name="back">Retour</string>
+
+</resources>
